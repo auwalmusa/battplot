@@ -1,8 +1,7 @@
 Package: battplot
 Title: Battlytics ggplot2 styling and export helpers
 Version: 0.0.0.9000
-Authors@R: 
-    person("Auwal", "Musa", role = c("aut", "cre"))
+Authors@R: person("Auwal", "Musa", email = "auwal.musa@icloud.com", role = c("aut", "cre"))
 Description: Create consistent, publication-ready ggplot2 charts for
     Battlytics briefs. Includes themes, palettes, annotation helpers, and
     LinkedIn export defaults.
@@ -13,3 +12,7 @@ RoxygenNote: 7.3.3
 Suggests: 
     testthat (>= 3.0.0)
 Config/testthat/edition: 3
+Imports: 
+    ggplot2,
+    ragg,
+    scales
