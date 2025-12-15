@@ -1,0 +1,15 @@
+Package: battplot
+Title: Battlytics ggplot2 styling and export helpers
+Version: 0.0.0.9000
+Authors@R: 
+    person("Auwal", "Musa", role = c("aut", "cre"))
+Description: Create consistent, publication-ready ggplot2 charts for
+    Battlytics briefs. Includes themes, palettes, annotation helpers, and
+    LinkedIn export defaults.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.3
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
