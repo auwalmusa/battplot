@@ -1,8 +1,9 @@
 pandoc: 3.1.11
 pkgdown: 2.2.0
 pkgdown_sha: ~
-articles: {}
-last_built: 2025-12-16T15:25Z
+articles:
+  cookbook-01-quickstart: cookbook-01-quickstart.html
+last_built: 2025-12-16T15:28Z
 urls:
   reference: https://auwalmusa.github.io/battplot/reference
   article: https://auwalmusa.github.io/battplot/articles

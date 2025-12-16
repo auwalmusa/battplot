@@ -32,3 +32,8 @@ remotes::install_github(“auwalmusa/battplot”)
 - [`theme_battlytics()`](https://auwalmusa.github.io/battplot/reference/theme_battlytics.md)
   : Battlytics ggplot2 theme
 
+# Articles
+
+### All vignettes
+
+- [cookbook-01-quickstart](https://auwalmusa.github.io/battplot/articles/cookbook-01-quickstart.md):
