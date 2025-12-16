@@ -6,5 +6,7 @@ export helpers for LinkedIn.
 
 ## Install
 
-\`\`\`r \# install.packages(“remotes”)
-remotes::install_github(“auwalmusa/battplot”)
+``` r
+# install.packages("remotes")
+remotes::install_github("auwalmusa/battplot")
+```

@@ -2,4 +2,5 @@
 
 ### All vignettes
 
-- [cookbook-01-quickstart](https://auwalmusa.github.io/battplot/articles/cookbook-01-quickstart.md):
+- [Cookbook 01:
+  Quickstart](https://auwalmusa.github.io/battplot/articles/cookbook-01-quickstart.md):
