@@ -1,17 +1,19 @@
+---
+output: github_document
+---
 
 # battplot <img src="man/figures/logo.png" align="right" width="120" />
 
 <!-- badges: start -->
-
 [![R-CMD-check](https://github.com/auwalmusa/battplot/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/auwalmusa/battplot/actions/workflows/R-CMD-check.yaml)
 [![pkgdown](https://github.com/auwalmusa/battplot/actions/workflows/pkgdown.yaml/badge.svg)](https://github.com/auwalmusa/battplot/actions/workflows/pkgdown.yaml)
 <!-- badges: end -->
 
-**battplot** is the Battlytics chart system for monthly briefs and
-dashboards. It provides consistent themes, palettes, captions, and
-export helpers for LinkedIn.
+**battplot** is the Battlytics chart system for monthly briefs and dashboards.
+It provides consistent themes, palettes, captions, and export helpers for LinkedIn.
 
 ## Install
 
-\`\`\`r \# install.packages(“remotes”)
-remotes::install_github(“auwalmusa/battplot”)
+```r
+# install.packages("remotes")
+remotes::install_github("auwalmusa/battplot")
