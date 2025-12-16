@@ -14,6 +14,6 @@ It provides consistent themes, palettes, captions, and export helpers for Linked
 
 ## Install
 
-```r
+```{r install, eval=FALSE}
 # install.packages("remotes")
 remotes::install_github("auwalmusa/battplot")

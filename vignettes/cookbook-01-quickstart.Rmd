@@ -1,19 +1,16 @@
 ---
-title: "cookbook-01-quickstart"
+title: "Cookbook 01: Quickstart"
 output: rmarkdown::html_vignette
 vignette: >
-  %\VignetteIndexEntry{cookbook-01-quickstart}
+  %\VignetteIndexEntry{Cookbook 01: Quickstart}
   %\VignetteEngine{knitr::rmarkdown}
   %\VignetteEncoding{UTF-8}
 ---
 
-```{r, include = FALSE}
-knitr::opts_chunk$set(
-  collapse = TRUE,
-  comment = "#>"
-)
-```
+This page shows the minimal Battlytics workflow:
+one chart, one claim, one caption, one export.
 
-```{r setup}
-library(battplot)
-```
+## Install
+
+```r
+remotes::install_github("auwalmusa/battplot")
