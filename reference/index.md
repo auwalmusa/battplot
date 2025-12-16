@@ -1,0 +1,22 @@
+# Package index
+
+## All functions
+
+- [`batt_caption()`](https://auwalmusa.github.io/battplot/reference/batt_caption.md)
+  : Build a consistent Battlytics caption
+- [`batt_cols()`](https://auwalmusa.github.io/battplot/reference/batt_cols.md)
+  : Battlytics brand colours
+- [`batt_labs()`](https://auwalmusa.github.io/battplot/reference/batt_labs.md)
+  : Standard Battlytics labels
+- [`batt_pal()`](https://auwalmusa.github.io/battplot/reference/batt_pal.md)
+  : Battlytics palette
+- [`batt_save_linkedin()`](https://auwalmusa.github.io/battplot/reference/batt_save_linkedin.md)
+  : Save a plot for LinkedIn (16:9)
+- [`batt_save_square()`](https://auwalmusa.github.io/battplot/reference/batt_save_square.md)
+  : Save a square plot for LinkedIn
+- [`scale_color_battlytics()`](https://auwalmusa.github.io/battplot/reference/scale_color_battlytics.md)
+  : Battlytics colour scale for ggplot2
+- [`scale_fill_battlytics()`](https://auwalmusa.github.io/battplot/reference/scale_fill_battlytics.md)
+  : Battlytics fill scale for ggplot2
+- [`theme_battlytics()`](https://auwalmusa.github.io/battplot/reference/theme_battlytics.md)
+  : Battlytics ggplot2 theme
